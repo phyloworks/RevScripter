@@ -1,4 +1,6 @@
-# RevScripter
+# RevScripter - ARCHIVED 
+
+This is the ARCHIVED fork of RevScripter. The current working version is here: https://github.com/revbayes/revscripter
 
 ## Description
 
